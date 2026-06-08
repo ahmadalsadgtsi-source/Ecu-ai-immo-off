@@ -1,8 +1,6 @@
-
-flask==3.0.0
-flask-cors==4.0.0
-flask-sqlalchemy==3.1.1
-bcrypt==4.1.2
-pyjwt==2.8.0
-gunicorn==21.2.0
-Commit message: Add requirements
+flask
+flask-cors
+flask-sqlalchemy
+bcrypt
+pyjwt
+gunicorn
